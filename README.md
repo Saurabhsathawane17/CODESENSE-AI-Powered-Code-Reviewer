@@ -91,3 +91,9 @@ CODESENSE/
 - Syntax Highlighting: Integrated PrismJS and React Simple Code Editor for editable, highlighted code input.
 - Markdown Rendering: Used react-markdown for nicely formatted AI feedback.
 - Error Handling & Debugging: Addressed issues like missing imports, CORS errors, and incorrect API key usage.
+
+## Results
+<img width="1911" height="967" alt="Screenshot 2025-08-09 193237" src="https://github.com/user-attachments/assets/e4082dd0-2032-4571-a46c-259ca0dc38d1" />
+
+<img width="1909" height="967" alt="Screenshot 2025-08-09 193412" src="https://github.com/user-attachments/assets/d6025809-a586-4e38-be34-c51beb5eed86" />
+
